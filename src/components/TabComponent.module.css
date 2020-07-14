@@ -1,0 +1,7 @@
+.boxStyle {
+  height: 250px;
+  box-shadow: 8px 8px 6px -6px black;
+  outline: 1px solid rgb(235, 232, 232);
+  margin: 25px;
+  padding: 25px;
+}
